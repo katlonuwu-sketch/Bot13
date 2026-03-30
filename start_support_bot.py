@@ -186,7 +186,7 @@ async def bot_ping():
 
         try:
             requests.post(
-                "https://checkbot-production-b44c.up.railway.app/bot_activity",
+                "https://checkbot-production-2d36.up.railway.app/bot_activity",
                 json={
                     "bot_id": "Alko_bot",
                     "status": "working"
