@@ -1,18 +1,4 @@
 {
-    "@kafka_kofe1314": {
-        "username": "Kafka_kofe1314",
-        "start_datetime": "2026-03-02 00:00",
-        "end_datetime": "2026-03-05 18:00",
-        "group_id": -1003643921038,
-        "notified": false
-    },
-    "@kurugugu": {
-        "username": "Kurugugu",
-        "start_datetime": "2026-03-02 00:00",
-        "end_datetime": "2026-03-19 18:00",
-        "group_id": -1003643921038,
-        "notified": false
-    },
     "@debugg4r": {
         "username": "Debugg4R",
         "start_datetime": "2026-03-02 00:00",
