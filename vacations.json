@@ -61,5 +61,12 @@
         "end_datetime": "2026-04-30 18:00",
         "group_id": -1003643921038,
         "notified": false
+    },
+    "kattoruska": {
+        "username": "kattoruska",
+        "start_datetime": "2026-04-14 00:00",
+        "end_datetime": "2026-04-25 18:00",
+        "group_id": -1003643921038,
+        "notified": false
     }
 }
